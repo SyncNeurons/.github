@@ -1,3 +1,7 @@
+<img width="2064" height="512" alt="Baner3" src="https://github.com/user-attachments/assets/d05387fb-8659-41b1-bb96-b68627e6672c" />
+
+
+
 # 🧠 Welcome to SyncNeurons
 
 **Democratizing Neuroscience. The SaaS platform for seamless brain-computer interaction.**
