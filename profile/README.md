@@ -19,5 +19,6 @@ To make advanced neuroscience accessible, scalable, and intuitive through cuttin
 
 ## 🌐 Connect with Us
 - **Website:** [syncneurons.com](https://www.syncneurons.com)
+- **2nd Website:** [syncneurons.ir](https://www.syncneurons.ir)
 - **LinkedIn:** [SyncNeurons on LinkedIn](https://www.linkedin.com/company/syncneurons)
 - **Contact:** syncneurons@gmail.com
